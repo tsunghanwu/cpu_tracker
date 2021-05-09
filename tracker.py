@@ -77,7 +77,7 @@ class Tracker:
 
         return self.history, self.times
 
-    def save(self):
+    def plot(self):
         df_out = pd.DataFrame(columns=['Time', 'CPU_Percentage'])
         df_out['Time'] = self.times
         df_out['CPU_Percentage'] = self.history
@@ -98,7 +98,7 @@ class Tracker:
             plt.title('CPU Usage for PID {}, \n starting {}'.format(self.pid, self.start))
             plt.savefig('./plots/Tracker_chart_{}.jpg'.format(self.start))
             ##os.system('eog Tracker_chart_{}.jpg'.format(self.start))
-        
+
         else:
             plt.plot(self.times, self.history, '-o')
             plt.xlabel('Time (s)')
