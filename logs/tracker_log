@@ -1,0 +1,48 @@
+[05/15/2021 20:09:25] INFO: The PID is 5791
+[05/15/2021 20:09:25] INFO: CPU tracker is now tracking on PID 5791
+
+[05/15/2021 20:09:25] INFO: Current time is 2021-05-15 20:09:25.154345
+[05/15/2021 20:09:25] INFO: Estimate time span is 1 min
+
+[05/15/2021 20:09:25] INFO: Estimate endtime is 2021-05-15 20:10:25.154345
+
+[05/15/2021 20:09:25] DEBUG: Entering the while loop...
+[05/15/2021 20:09:25] DEBUG: Time tracker for now is 2021-05-15 20:09:25.154671
+[05/15/2021 20:09:35] DEBUG: CPU usuage for PID 5791 is now 100.0 percent, with 10s interval
+[05/15/2021 20:09:35] DEBUG: time delta is 0:00:00.000326
+[05/15/2021 20:09:35] DEBUG: time sample is appended
+[05/15/2021 20:09:35] DEBUG: CPU history list updated
+
+[05/15/2021 20:09:35] DEBUG: Time tracker for now is updated to 2021-05-15 20:09:35.165179
+[05/15/2021 20:09:45] DEBUG: CPU usuage for PID 5791 is now 100.0 percent, with 10s interval
+[05/15/2021 20:09:45] DEBUG: time delta is 0:00:10.010834
+[05/15/2021 20:09:45] DEBUG: time sample is appended
+[05/15/2021 20:09:45] DEBUG: CPU history list updated
+
+[05/15/2021 20:09:45] DEBUG: Time tracker for now is updated to 2021-05-15 20:09:45.175612
+[05/15/2021 20:09:55] DEBUG: CPU usuage for PID 5791 is now 100.0 percent, with 10s interval
+[05/15/2021 20:09:55] DEBUG: time delta is 0:00:20.021267
+[05/15/2021 20:09:55] DEBUG: time sample is appended
+[05/15/2021 20:09:55] DEBUG: CPU history list updated
+
+[05/15/2021 20:09:55] DEBUG: Time tracker for now is updated to 2021-05-15 20:09:55.186084
+[05/15/2021 20:10:05] DEBUG: CPU usuage for PID 5791 is now 100.0 percent, with 10s interval
+[05/15/2021 20:10:05] DEBUG: time delta is 0:00:30.031739
+[05/15/2021 20:10:05] DEBUG: time sample is appended
+[05/15/2021 20:10:05] DEBUG: CPU history list updated
+
+[05/15/2021 20:10:05] DEBUG: Time tracker for now is updated to 2021-05-15 20:10:05.196899
+[05/15/2021 20:10:15] DEBUG: CPU usuage for PID 5791 is now 100.0 percent, with 10s interval
+[05/15/2021 20:10:15] DEBUG: time delta is 0:00:40.042554
+[05/15/2021 20:10:15] DEBUG: time sample is appended
+[05/15/2021 20:10:15] DEBUG: CPU history list updated
+
+[05/15/2021 20:10:15] DEBUG: Time tracker for now is updated to 2021-05-15 20:10:15.207356
+[05/15/2021 20:10:25] DEBUG: CPU usuage for PID 5791 is now 100.0 percent, with 10s interval
+[05/15/2021 20:10:25] DEBUG: time delta is 0:00:50.053011
+[05/15/2021 20:10:25] DEBUG: time sample is appended
+[05/15/2021 20:10:25] DEBUG: CPU history list updated
+
+[05/15/2021 20:10:25] DEBUG: Time tracker for now is updated to 2021-05-15 20:10:25.217797
+[05/15/2021 20:10:25] DEBUG: Breaking the while loop.....
+[05/15/2021 20:10:25] DEBUG: Elapsed times transformed to seconds
